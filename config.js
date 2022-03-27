@@ -168,8 +168,12 @@ const CONFIG = {
           name: 'Chatterino 2',
           link: 'https://github.com/chatterino/chatterino2',
         },
+        { 
+          name: 'Chatterino 7',
+          link: 'https://github.com/seventv/chatterino7',
+        },
         {
-          name: 'Pajbot 1',
+          name: 'pajbot1',
           link: 'https://github.com/pajbot/pajbot',
         },
         {
